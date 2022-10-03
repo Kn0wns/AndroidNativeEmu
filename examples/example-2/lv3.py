@@ -3,11 +3,6 @@
 # @Author  : KKings
 # @File    : lv3.py
 # @Software: PyCharm
-# -*- coding: utf-8 -*-
-# @Time    : 2022-10-02 22:59
-# @Author  : KKings
-# @File    : lv2.py
-# @Software: PyCharm
 
 import logging
 import posixpath
