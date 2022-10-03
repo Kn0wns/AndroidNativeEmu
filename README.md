@@ -23,7 +23,7 @@ fork from  : https://github.com/AeonLucid/AndroidNativeEmu
 ## 使用方法
 ~~运行环境：python 3.7 必须！~~
 1. Clone the repository
-2. Run `pip install -r requirements.txt`
+2. Run `pip install -r requirements.txt` or `(Call install_library.bat)`
 3. Run `python example.py`
 
 Windows上可以跑，自行尝试。
